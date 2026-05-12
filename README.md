@@ -10,13 +10,6 @@ A full-featured team collaboration platform built with the MERN stack. Manage pr
 > **Database:** MongoDB Atlas (Cloud)
 
 ---
-
-## 📸 Screenshots
-
-> *(Add screenshots of your Dashboard, Login, Task Board here)*
-
----
-
 ## 🧰 Tech Stack
 
 ### Backend
@@ -67,43 +60,6 @@ A full-featured team collaboration platform built with the MERN stack. Manage pr
 
 ---
 
-## 📁 Project Structure
-
-```
-mern-task-manager/
-│
-├── backend/
-│   ├── models/
-│   │   ├── User.js
-│   │   ├── Project.js
-│   │   └── Task.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── projectController.js
-│   │   └── taskController.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── projectRoutes.js
-│   │   └── taskRoutes.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── config/
-│   │   └── db.js
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/        # Axios API calls
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── vite.config.js
-│
-└── README.md
-```
-
----
 
 ## 🗃️ Database Collections
 
@@ -143,39 +99,6 @@ mern-task-manager/
 
 ---
 
-## ⚙️ Getting Started
-
-### Prerequisites
-- Node.js v18+
-- MongoDB Atlas account (or local MongoDB)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/mern-task-manager.git
-cd mern-task-manager
-```
-
-### 2. Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file in the `backend/` directory:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
-JWT_SECRET=your_super_secret_jwt_key
-```
-
-Start the backend server:
-
-```bash
-npm run dev
-```
 
 ### 3. Frontend Setup
 
@@ -240,9 +163,8 @@ This application is deployed using **Railway**.
 
 ## 👨‍💻 Author
 
-**Rohit**  
+**Harshit Tiwari**  
 Full Stack Developer | MERN Stack  
-[GitHub](#) · [LinkedIn](#) *(replace with your links)*
 
 ---
 
