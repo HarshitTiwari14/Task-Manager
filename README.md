@@ -6,7 +6,7 @@ A full-featured team collaboration platform built with the MERN stack. Manage pr
 
 ## 🚀 Live Demo
 
-> **Deployed on Railway** → [[View Live App](#) **](https://task-manager-production-c4ea.up.railway.app/signup)  
+> **Deployed on Railway** → (https://task-manager-production-c4ea.up.railway.app/signup)  
 > **Database:** MongoDB Atlas (Cloud)
 
 
